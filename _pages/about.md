@@ -14,6 +14,8 @@ My research interests lie in Computer Vision and Pattern Recognition. Currently 
 Research
 ======
 **NeRF(Still Reseaching)**
+https://github.com/USTBVEO/veopage.github.io/blob/master/images/yishuguan1.mp4
+https://github.com/USTBVEO/veopage.github.io/blob/master/images/inerfvideo1.gif
 <video src="https://github.com/USTBVEO/veopage.github.io/blob/master/images/yishuguan1.mp4" controls="controls" width="500" height="300">您的浏览器不支持播放该视频！</video>
 <video src="https://github.com/USTBVEO/veopage.github.io/blob/master/images/inerfvideo1.gif" controls="controls" width="500" height="300">您的浏览器不支持播放该视频！</video>
 

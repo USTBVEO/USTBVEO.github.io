@@ -13,6 +13,9 @@ My research interests lie in Computer Vision and Pattern Recognition. Currently 
 
 Research
 ======
+**NeRF(Still Reseaching)**
+<video src="https://www.bilibili.com/video/BV1Ld4y187qg" controls="controls" width="500" height="300">您的浏览器不支持播放该视频！</video>
+
 **Assembly Guidance System based on Augmented reality (Hololens)**
 
 [ [Video](https://www.bilibili.com/video/BV1Ld4y187qg) ] [ [PDF](https://github.com/USTBVEO/veopage.github.io/blob/master/files/Wei%20Yang_Design%20and%20Implementation%20of%20AR%20Aided%20Assembly%20System.pdf) ]

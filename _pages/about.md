@@ -36,5 +36,9 @@ In this research, An AR aided assembly system is designed and implemented. The d
 
 **Defect detection methods for highly reflective surfaces**
 
+**Augmented reality assisted blind operation in small Spaces**
+![Blind Operation](https://raw.githubusercontent.com/USTBVEO/veopage.github.io/master/images/bio-photo.jpg)
+
 Honors & Awards
 ======
+

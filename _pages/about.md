@@ -18,10 +18,6 @@ Research
 NeRF Reconstruction base on Instant-NGP
 <video src="https://raw.githubusercontent.com/USTBVEO/veopage.github.io/master/images/yishuguan1.mp4" controls="controls" width="500" height="300">您的浏览器不支持播放该视频！</video>
 
-6D Pose Estimation using iNeRF
-
-![6D Pose Estimation using iNeRF](https://raw.githubusercontent.com/USTBVEO/veopage.github.io/master/images/inerfvideo1.gif)
-
 **Assembly Guidance System based on Augmented reality (Hololens)**
 
 [ [Video](https://www.bilibili.com/video/BV1Ld4y187qg) ] [ [PDF](https://github.com/USTBVEO/veopage.github.io/blob/master/files/Wei%20Yang_Design%20and%20Implementation%20of%20AR%20Aided%20Assembly%20System.pdf) ]
@@ -30,14 +26,28 @@ In this research, An AR aided assembly system is designed and implemented. The d
 
 **Air pollution region division based on deep belief network**
 
+![Blind Operation](https://raw.githubusercontent.com/USTBVEO/veopage.github.io/master/images/region division.png)
+
 **Automatic dispensing of spacecraft heating sheet based on machine vision**
+
+![Blind Operation](https://raw.githubusercontent.com/USTBVEO/veopage.github.io/master/images/110-EndPoints.jpg)
 
 **Neural radiance Fields for Assembly Scene Pose Estimation**
 
+6D Pose Estimation using iNeRF
+
+![6D Pose Estimation using iNeRF](https://raw.githubusercontent.com/USTBVEO/veopage.github.io/master/images/inerfvideo1.gif)
+
 **Defect detection methods for highly reflective surfaces**
 
-**Augmented reality assisted blind operation in small Spaces**
-![Blind Operation](https://raw.githubusercontent.com/USTBVEO/veopage.github.io/master/images/bio-photo.jpg)
+<video src="https://raw.githubusercontent.com/USTBVEO/veopage.github.io/master/images/test_belt_movement.mp4" controls="controls" width="500" height="300">您的浏览器不支持播放该视频！</video>
+
+**Augmented reality assisted blind operation in small Spaces (HoloLens)**
+
+<video src="https://raw.githubusercontent.com/USTBVEO/veopage.github.io/master/images/20230319_210739_HoloLens.mp4" controls="controls" width="500" height="300">您的浏览器不支持播放该视频！</video>
+
+
+
 
 Honors & Awards
 ======

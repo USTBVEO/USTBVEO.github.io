@@ -26,11 +26,11 @@ In this research, An AR aided assembly system is designed and implemented. The d
 
 **Air pollution region division based on deep belief network**
 
-![Blind Operation](https://raw.githubusercontent.com/USTBVEO/veopage.github.io/master/images/region_division.png)
+<img src="https://raw.githubusercontent.com/USTBVEO/veopage.github.io/master/images/region_division.png" width="500">
 
 **Automatic dispensing of spacecraft heating sheet based on machine vision**
 
-![Blind Operation](https://raw.githubusercontent.com/USTBVEO/veopage.github.io/master/images/110-EndPoints.jpg)
+<img src="https://raw.githubusercontent.com/USTBVEO/veopage.github.io/master/images/110-EndPoints.jpg" width="500">
 
 **Neural radiance Fields for Assembly Scene Pose Estimation**
 

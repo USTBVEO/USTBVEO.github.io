@@ -26,7 +26,7 @@ In this research, An AR aided assembly system is designed and implemented. The d
 
 **Air pollution region division based on deep belief network**
 
-![Blind Operation](https://raw.githubusercontent.com/USTBVEO/veopage.github.io/master/images/region division.png)
+![Blind Operation](https://raw.githubusercontent.com/USTBVEO/veopage.github.io/master/images/region_division.png)
 
 **Automatic dispensing of spacecraft heating sheet based on machine vision**
 

@@ -48,8 +48,9 @@ In this research, An AR aided assembly system is designed and implemented. The d
 
 <video src="https://raw.githubusercontent.com/USTBVEO/veopage.github.io/master/images/20230319_210739_HoloLens.mp4" controls="controls" width="500" height="300">您的浏览器不支持播放该视频！</video>
 
+**Straight line detection methods in cluttered scene**
 
-
+<img src="https://raw.githubusercontent.com/USTBVEO/veopage.github.io/master/images/line_detection.png" width="500">
 
 Honors & Awards
 ======

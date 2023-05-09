@@ -11,30 +11,43 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Automation Engineering, University of Science & Technology Beijing, 2022
+* M.S. in Intelligent Manufacturing, Beihang University, 2025 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2021: Product Lifecycle Business Development Assistant
+  * Beijing Emerson Process Control Co. LTD
+  * Duties included: Data analysis and visual presentation of Emerson's business through Power BI, responsible for product lifecycle operation and business expansion.
+  * Supervisor: Amy Tan
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Winter 2021: Quantitative Strategy Researcher
+  * Beijing Beavo Information Technology Co. LTD
+  * Duties included: Study quantitative trading strategy of digital currency, implement Copulas trading strategy based on python object-oriented and multi-threaded ideas, and use previous data to simulate trading in Docker, analyze benefits and optimize trading strategy.
+  * Supervisor: Siyu Fan
   
+* Summer 2020: 
+  * Xianning Human Resources and Social Security Bureau of Hubei Province
+  * Duties included: Responsible for archiving, sorting and recording the archives of college and technical secondary school graduates in the city, sorting out 20,000 files of fresh graduates during the two months in office.
+  * Supervisor: Chao Zheng
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Good at mathematical modeling
+  * Calculus, Linear algebra, Probability theory and mathematical statistics, Complex function and integral transformation.
+  * Operations research,Functional analysis and variational principle and Convex optimization.
+  * Mathematical statistics, Matrix theory, Lie group and Lie algebra.
+* Good at some programming languages and frameworks
+  * Python
+  * C++ MFC
+  * C# .Net
+  * Cuda C
+  * Matlab
+  * MySQL
+* Some softwares
+  * Unity3D
+  * Siemens TIA Portal
+
 
 Publications
 ======

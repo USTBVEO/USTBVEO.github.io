@@ -7,15 +7,20 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a graduate student at [Beihang University (BUAA)](https://www.buaa.edu.cn/), majoring in Mechanical Engineering. I earned my bachelor degree from [University of Science and Technology Beijing (USTB)](https://www.ustb.edu.cn/), majoring in Automation Engineering and supervised by [Prof. Ling Wang](http://saee.ustb.edu.cn/quantijiaoshi/2015-05-12/40.html). I had a research experience working on Data Mining, Augmented Reality and Computer Vision. I had a few short exchange experiences abroad, in [Queensland University](https://www.uq.edu.au/) (UQ, 2018, Australia) and [National University of Science and Technology](https://en.misis.ru/) (NUST MISIS, 2019, Russia).
+I am a graduate student at [Beihang University (BUAA)](https://www.buaa.edu.cn/), majoring in Mechanical Engineering. I earned my bachelor degree from [University of Science and Technology Beijing (USTB)](https://www.ustb.edu.cn/), majoring in Automation Engineering and supervised by [Prof. Ling Wang](http://saee.ustb.edu.cn/quantijiaoshi/2015-05-12/40.html). I had a research experience working on **Data Mining, Augmented Reality and Computer Vision**. I had a few short exchange experiences abroad, in [Queensland University](https://www.uq.edu.au/) (UQ, 2018, <address>Australia</address>) and [National University of Science and Technology](https://en.misis.ru/) (NUST MISIS, 2019, <address>Russia</address>).
 
-My research interests lie in Computer Vision and Pattern Recognition. Currently I am engaged in reseaching NeRF and 6D Pose Estimation.
+My research interests lie in **Computer Vision and Pattern Recognition**. Currently I am engaged in reseaching NeRF and 6D Pose Estimation.
+
+*[NeRF]: Neural Radiance Fields
 
 Research
 ======
 **NeRF(Still Reseaching)**
 
 NeRF Reconstruction base on Instant-NGP
+
+*[Instant-NGP]: Instant Neural Graphics Primitives
+
 <video src="https://raw.githubusercontent.com/USTBVEO/veopage.github.io/master/images/yishuguan1.mp4" controls="controls" width="500" height="300">您的浏览器不支持播放该视频！</video>
 
 **Assembly Guidance System based on Augmented reality (Hololens)**

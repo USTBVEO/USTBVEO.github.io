@@ -51,20 +51,26 @@ Skills
 
 Awards
 ======
-| Entry            | Item   |                                                              |
-| --------         | ------ | ------------------------------------------------------------ |
-| The third prize of "Huawei Cup" China Postgraduate Mathematical Modeling Competition    | 2022   | Description of the item in the list                          |
-| First prize in North China Division of "Siemens Cup" China Intelligent Manufacturing Challenge    | 2021   | Description of the item in the list                          |
-| Third prize of Capital University Students Challenge Cup "Red Practice" special Competition     | 2021   | Description of the item in the list                          |
-| Second prize of undergraduate innovation and entrepreneurship project   | 2020  |  |
-| The third prize of the National Mathematics Competition for College Students | 2020 |  |
-| USTB Social Practice Silver Award Practice Group | 2019 |  |
-| First prize in the final of the Queensland Cup "Charming Hubei" Youth English Talent Competition | 2018 |  |
+
+### Awards are listed below
+
+| Entry                                                                                              | Item   |                                       |
+| --------                                                                                           | ------ | ------------------------------        |
+| The third prize of "Huawei Cup" China Postgraduate Mathematical Modeling Competition               | 2022   | Description of the item in the list              |
+| First prize in North China Division of "Siemens Cup" China Intelligent Manufacturing Challenge     | 2021   | Description of the item in the list        |
+| Third prize of Capital University Students Challenge Cup "Red Practice" special Competition        | 2021   | Description of the item in the list             |
+| Second prize of undergraduate innovation and entrepreneurship project                              | 2020   |                                        |
+| The third prize of the National Mathematics Competition for College Students                       | 2020   |                                        |
+| USTB Social Practice Silver Award Practice Group                                                   | 2019   |                                       |
+| First prize in the final of the Queensland Cup "Charming Hubei" Youth English Talent Competition   | 2018   |                                         |
 
 *[USTB]: University of Science and Technology Beijing
 
 Honors
 ======
+
+### Honors are listed below
+
 | Entry            | Item   |                                                              |
 | --------         | ------ | ------------------------------------------------------------ |
 | [John Doe](#)    | 2016   | Description of the item in the list                          |
@@ -72,8 +78,6 @@ Honors
 | [Doe Doe](#)     | 2022   | Description of the item in the list                          |
 
 
-
-<p>以下内容被注释
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -92,8 +96,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-
-</p>
 
 Service and leadership
 ======

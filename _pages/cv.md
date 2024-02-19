@@ -13,6 +13,7 @@ Education
 ======
 * B.S. in Automation Engineering, University of Science & Technology Beijing, 2022
 * M.S. in Intelligent Manufacturing, Beihang University, 2025 (expected)
+* M.S. in Subject teaching (Physics), Beihang University, 2025 (expected)
 
 Work experience
 ======
@@ -56,9 +57,10 @@ Awards
 
 | Entry                                                                                              | Item   |                                       |
 | --------                                                                                           | ------ | ------------------------------        |
-| The third prize of "Huawei Cup" China Postgraduate Mathematical Modeling Competition               | 2022   | Description of the item in the list              |
-| First prize in North China Division of "Siemens Cup" China Intelligent Manufacturing Challenge     | 2021   | Description of the item in the list        |
-| Third prize of Capital University Students Challenge Cup "Red Practice" special Competition        | 2021   | Description of the item in the list             |
+| 中国大学生机械工程创新创意大赛 智能制造赛 决赛二等奖                                                    | 2023   |               |
+| The third prize of "Huawei Cup" China Postgraduate Mathematical Modeling Competition               | 2022   |               |
+| First prize in North China Division of "Siemens Cup" China Intelligent Manufacturing Challenge     | 2021   |               |
+| Third prize of Capital University Students Challenge Cup "Red Practice" special Competition        | 2021   |               |
 | Second prize of undergraduate innovation and entrepreneurship project                              | 2020   |                                        |
 | The third prize of the National Mathematics Competition for College Students                       | 2020   |                                        |
 | USTB Social Practice Silver Award Practice Group                                                   | 2019   |                                       |

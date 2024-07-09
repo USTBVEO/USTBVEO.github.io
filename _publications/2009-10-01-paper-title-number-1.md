@@ -2,7 +2,7 @@
 title: "生产运作管理教学实践与情景式教学设计 ——以“啤酒游戏”为例"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: '本文讨论的是教学设计与实践.'
 date: 2024-07-20
 venue: '当代教育实践与教学研究'
 paperurl: 'http://ustbveo.github.io/files/paper1.pdf'

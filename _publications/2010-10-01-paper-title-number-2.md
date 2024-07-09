@@ -1,12 +1,12 @@
 ---
-title: "Wei Yang_Design and Implementation of AR Aided Assembly System"
+title: "Design and Implementation of AR Aided Assembly System"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: '本文讨论的是增强现实辅助装配系统的设计与实现.'
 date: 2022-10-01
-venue: 'Journal 1'
+venue: '待定'
 paperurl: 'http://ustbveo.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+citation: 'Wei Yang. (2010). &quot;Design and Implementation of AR Aided Assembly System. &quot. 2022.10(1):1-12.'
 ---
 This paper is about the number 2. The number 3 is left for future work.
 

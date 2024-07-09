@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Wei Yang"
   avatar           : "profile.png"
-  bio              : "A graduate student in Beihang University major in ME"
+  bio              : "A graduate student in Beihang University major in Mechanical Engineering and Subject Teaching (Phisics)"
   location         : "Beijing, China"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -111,9 +111,9 @@ author:
   tumblr           :
   twitter          : # "replacethistwitterhandle"
   vine             :
-  weibo            : "https://weibo.com/5944176264?refer_flag=1001030103_"
+  weibo            : # "https://weibo.com/5944176264?refer_flag=1001030103_"
   xing             :
-  youtube          : "https://www.youtube.com/channel/UCqzAaUk-AOTYVWOO6Tmrx1Q"
+  youtube          : # "https://www.youtube.com/channel/UCqzAaUk-AOTYVWOO6Tmrx1Q"
   wikipedia        :
 
 

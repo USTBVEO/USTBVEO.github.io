@@ -17,6 +17,11 @@ Education
 
 Work experience
 ======
+* 2024: Intern Teacher of Senior Physics I
+  * Beijing National Day School
+  * Duties included: Teaching high school physics (compulsory one to compulsory three) to help students pass the physics qualification examination.
+  * Supervisor: [Ping Dong](https://baike.baidu.com/item/%E8%91%A3%E5%B9%B3/13215712?fr=ge_ala)
+
 * Summer 2021: Product Lifecycle Business Development Assistant
   * Beijing Emerson Process Control Co. LTD
   * Duties included: Data analysis and visual presentation of Emerson's business through Power BI, responsible for product lifecycle operation and business expansion.

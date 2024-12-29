@@ -11,13 +11,18 @@ I am a graduate student at [Beihang University (BUAA)](https://www.buaa.edu.cn/)
 
 My research interests lie in **Computer Vision and Pattern Recognition**. Currently I am engaged in reseaching NeRF & 3DGS, 6D Pose Estimation, Augmented Reality and Modern Education Technology.
 
-At present, I am an **intern teacher of Senior Physics I** in [Beijing National Day School (BNDS)](https://www.bnds.cn/) and preparing for the Tin Ka Ping Cup.
+At present, I am an **intern teacher of Senior Physics I** in [Beijing National Day School (BNDS)](https://www.bnds.cn/).
 
 *[NeRF]: Neural Radiance Fields
 *[3DGS]: 3D Gaussian Splatting
 
 Research
 ======
+
+**AR Senior Physics Teaching in Electromagnetic Wave**
+
+<video src="https://raw.githubusercontent.com/USTBVEO/veopage.github.io/master/images/20241217_062355_HoloLens_yasuo.mp4" controls="controls" width="500" height="309">您的浏览器不支持播放该视频！</video>
+
 **NeRF & 3DGS**
 
 3D Reconstruction based on Instant-NGP(NeRF)
